@@ -1,5 +1,5 @@
 ## Multiple Tabs in a Single Page Made With React.
-![Captura de tela 2023-01-02 172014](https://user-images.githubusercontent.com/68788167/210275404-1138548a-f9cb-447c-964c-55f2e257f52e.jpg)
+![image](https://github.com/Ericmohn/SinglePageTabs/assets/68788167/ce4a609f-075e-407e-a6cb-31f63c7cc584)
 
 ## How to install
 Download or mirror the repository and run "npm install" and "npm start" after.
